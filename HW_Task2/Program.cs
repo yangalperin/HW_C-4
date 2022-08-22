@@ -1,23 +1,27 @@
-﻿//Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
-//[345, 897, 568, 234] -> 
+﻿//Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
+//[3, 7, 23, 12] -> 19
+//[-4, -6, 89, 6] -> 0
 
-int size = 8;
+int size = 4;
 int[] numbers = new int[size];
-int count = 0;
+int sumOdd = 0;
+
+
 FillArray(numbers);
 PrintArray(numbers);
-for (int i = 0; i < numbers.Length; i++)
-if (numbers[i] % 2 == 0)
-{
-   count++;
-}
-Console.WriteLine("The number of even numbers is " + count);
 
+for (int i = 0; i < numbers.Length; i++)
+    if (i % 2 != 0)
+    {
+        sumOdd += numbers[i];
+    }
+
+Console.WriteLine("Сумма элементов, стоящих на нечётных позициях равна " + sumOdd);
 void FillArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new Random().Next(100, 1000);
+        array[i] = new Random().Next(-9, 10);
     }
 }
 void PrintArray(int[] array)
@@ -28,6 +32,8 @@ void PrintArray(int[] array)
     }
     Console.WriteLine();
 }
+
+
 
 
 
