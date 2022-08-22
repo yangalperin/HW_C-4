@@ -1,0 +1,15 @@
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/bin/Debug/net6.0/HW_Task3
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/bin/Debug/net6.0/HW_Task3.deps.json
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/bin/Debug/net6.0/HW_Task3.runtimeconfig.json
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/bin/Debug/net6.0/HW_Task3.dll
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/bin/Debug/net6.0/HW_Task3.pdb
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/obj/Debug/net6.0/HW_Task3.csproj.AssemblyReference.cache
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/obj/Debug/net6.0/HW_Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/obj/Debug/net6.0/HW_Task3.AssemblyInfoInputs.cache
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/obj/Debug/net6.0/HW_Task3.AssemblyInfo.cs
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/obj/Debug/net6.0/HW_Task3.csproj.CoreCompileInputs.cache
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/obj/Debug/net6.0/HW_Task3.dll
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/obj/Debug/net6.0/refint/HW_Task3.dll
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/obj/Debug/net6.0/HW_Task3.pdb
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/obj/Debug/net6.0/HW_Task3.genruntimeconfig.cache
+/Users/yan/Desktop/ДЗ_4_С#/HW_Task3/obj/Debug/net6.0/ref/HW_Task3.dll
